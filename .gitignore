@@ -35,6 +35,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Various OSX ignoramuses.
+modules/default/.DS_Store
 .DS_Store
 .AppleDouble
 .LSOverride
